@@ -19,9 +19,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/fantastic-umbrella/issues"
+    "url": "https://github.com/thumbolinat/e-commerce-sql"
   },
-  "homepage": "https://github.com/coding-boot-camp/fantastic-umbrella#readme",
+  "homepage": "https://github.com/thumbolinat/e-commerce-sql#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
     "mysql2": "^2.3.3",

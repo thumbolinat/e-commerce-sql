@@ -12,7 +12,7 @@
   <a name="about"></a>
   ## Description
   
-   This is a back-end application for e-commerce application that utilizes Node.js and MySQL.
+   This is a back-end application for e-commerce application that utilizes Node.js and MySQL.The starter code was provided by git+https://github.com/coding-boot-camp/fantastic-umbrella.git.
  
   <a name="installation"></a>
   
@@ -41,6 +41,6 @@
   Feel free to reach out to me with any additional questions
 
   * [Find me on GitHub](https://github.com/thumbolinat/)
-  
+
   * Email me at: thumbolinat@gmail.com
 
